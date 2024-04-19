@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NoteApp
+namespace NoteAppUI
 {
-    public class Class1
+    internal class Project
     {
     }
 }
